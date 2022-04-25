@@ -1,7 +1,7 @@
 # Object-oriented-programming Projects
 
 #### Project1:
->  Implementation of an Arithmetic Calculator. <br>java<br
+>  Implementation of an Arithmetic Calculator. <br>java<br>
 
 #### Project2:
 >  Implementation of Image Processing code.<br>java<br>
