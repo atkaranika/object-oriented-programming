@@ -1,0 +1,67 @@
+digraph ArithmeticExpressionTree { 
+fontcolor="navy";
+fontsize=20;
+labelloc="t"; 
+label="Arithmetic Expression"
+1442407170[label="+", shape=circle, color=black]
+1442407170 -> 1028566121
+1028566121[label="+", shape=circle, color=black]
+1028566121 -> 1118140819
+1118140819[label="+", shape=circle, color=black]
+1118140819 -> 1975012498
+1975012498[label="5", shape=circle, color=black]
+1118140819[label="+", shape=circle, color=black]
+1118140819 -> 1808253012
+1808253012[label="*", shape=circle, color=black]
+1808253012 -> 589431969
+589431969[label="+", shape=circle, color=black]
+589431969 -> 1252169911
+1252169911[label="*", shape=circle, color=black]
+1252169911 -> 2101973421
+2101973421[label="+", shape=circle, color=black]
+2101973421 -> 685325104
+685325104[label="3.3", shape=circle, color=black]
+2101973421[label="+", shape=circle, color=black]
+2101973421 -> 460141958
+460141958[label="6.6", shape=circle, color=black]
+1252169911[label="*", shape=circle, color=black]
+1252169911 -> 1163157884
+1163157884[label="9.2", shape=circle, color=black]
+589431969[label="+", shape=circle, color=black]
+589431969 -> 1956725890
+1956725890[label="12.546", shape=circle, color=black]
+1808253012[label="*", shape=circle, color=black]
+1808253012 -> 356573597
+356573597[label="2.323", shape=circle, color=black]
+1028566121[label="+", shape=circle, color=black]
+1028566121 -> 1735600054
+1735600054[label="-", shape=circle, color=black]
+1735600054 -> 21685669
+21685669[label="*", shape=circle, color=black]
+21685669 -> 2133927002
+2133927002[label="+", shape=circle, color=black]
+2133927002 -> 1836019240
+1836019240[label="33.3", shape=circle, color=black]
+2133927002[label="+", shape=circle, color=black]
+2133927002 -> 325040804
+325040804[label="2342.1", shape=circle, color=black]
+21685669[label="*", shape=circle, color=black]
+21685669 -> 1173230247
+1173230247[label="55.555", shape=circle, color=black]
+1735600054[label="-", shape=circle, color=black]
+1735600054 -> 856419764
+856419764[label="10000.009", shape=circle, color=black]
+1442407170[label="+", shape=circle, color=black]
+1442407170 -> 621009875
+621009875[label="*", shape=circle, color=black]
+621009875 -> 1265094477
+1265094477[label="11.334", shape=circle, color=black]
+621009875[label="*", shape=circle, color=black]
+621009875 -> 2125039532
+2125039532[label="^", shape=circle, color=black]
+2125039532 -> 312714112
+312714112[label="2.3", shape=circle, color=black]
+2125039532[label="^", shape=circle, color=black]
+2125039532 -> 692404036
+692404036[label="3.5", shape=circle, color=black]
+}
